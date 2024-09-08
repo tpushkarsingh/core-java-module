@@ -1,4 +1,4 @@
-# Copy Demo
+# Core Java Concepts
 
 This project demonstrates different techniques for performing shallow and deep copies in Java.
 
